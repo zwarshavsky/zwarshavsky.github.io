@@ -1,17 +1,17 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Zhenya's Porfolio
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: A collection of Data Science analysis including DSP and broad exploratory approaches.   
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
-# url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url is the the website domain URL without a trailing slash
+url: "https://zwarshavsky.github.io/"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -68,7 +68,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: zwarshavsky@gmail.com
+  email: "zwarshavsky@gmail.com"
   facebook: https://www.facebook.com/zmuse
   github: zwarshavsky
   twitter: https://twitter.com/ZWarshavsky
