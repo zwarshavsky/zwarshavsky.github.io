@@ -22,11 +22,11 @@ Come, the __[NYC Open Data](https://opendata.cityofnewyork.us/)__
 
 After filtering the list down to the relavent data points, we're down to the following:
 
-![list snippet](/img/pre_list_snippet.png =250px)
+![](/img/pre_list_snippet.png | width=100)
 
 We turn it into a Dataframe, run the __[Google Maps Places API](https://developers.google.com/places/web-service/intro)__ against these addresses and get the following list: 
 
-![list snippet](/img/list_snippet.png =250px)
+![](/img/list_snippet.png | width=100)
 
 We then create a "Rank" column which allows us to rank the top 100 places with a "1" to "100" ordinal scale. 
 
