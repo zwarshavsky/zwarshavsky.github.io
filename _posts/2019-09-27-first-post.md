@@ -2,7 +2,7 @@
 layout: post
 title: Tracking Nightlife Noise in NYC
 subtitle: Find and analyze NYC's biggest noisemakers  
-image: /img/graph.png
+image: /img/nyc_skyline.png
 ---
 
 <html>
