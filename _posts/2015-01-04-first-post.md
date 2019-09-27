@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Tracking Nightlife Noise in NYC
-image: /img/hello_world.jpeg
+image: /img/graph.png
 ---
-
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
@@ -13125,7 +13124,7 @@ div#notebook {
 <h1 id="Tracking-The-Fun-Noise-in-NYC">Tracking The Fun Noise in NYC<a class="anchor-link" href="#Tracking-The-Fun-Noise-in-NYC">&#182;</a></h1><p>As co-founder of sound system design and acoustics consulting startup <strong><a href="http://www.stampedesound.com">Stampede Sound</a></strong> here in NYC, one of the principal goals of our operation has been to reduce noise transmission for small clubs and bars in the city while improving sound quality with our proprietary speakers and acoustical knowledge. Of all places to achieve this in the US, NYC is likely the most challenging: high population density, hundreds of bars and venue spaces in close proximity to residential spaces, and constantly changing neighborhood boundaries.</p>
 <p>A low density part of town can transform into an enterainment center and population center within just a few years and with it, shifting expecting for residents of that neighborhood. Both the businesses that serve the residents and new residential property construction are in a complicated dance with each other.</p>
 <p>Beyond the incredible cost of operating a bar or nightclub, there is one threat to the longevity of these establishments that is most existential: 311 Noise Complaints. No matter how succesfull, a sustained period of 311 Noise Complaints from residential neighbors can permanently shut down the operation.</p>
-<p>To track down the biggest offenders in this business space would be a huge boon not just for my company but any services that attempt to improve a part of the the urban entropy which keeps the neighbors and businesses biting their fingernails.</p>
+<p>To track down the biggest offenders in this business space would be a huge boon not just for my company but any sales teams that provide acoustical treatment services in the region.</p>
 <p>Come, the <strong><a href="https://opendata.cityofnewyork.us/">NYC Open Data</a></strong>
  initiative's <strong><a href="https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9">311 Noise Complaint Dataset</a></strong>.</p>
 
@@ -13506,30 +13505,7 @@ Name: Incident Address, Length: 7969, dtype: int64</pre>
 </div>
 </div>
 
-<div class="output_wrapper">
-<div class="output">
 
-
-<div class="output_area">
-
-    <div class="prompt"></div>
-
-
-<div class="output_subarea output_stream output_stderr output_text">
-<pre>/Users/user/anaconda3/lib/python3.7/site-packages/ipykernel_launcher.py:1: SettingWithCopyWarning:
-A value is trying to be set on a copy of a slice from a DataFrame.
-Try using .loc[row_indexer,col_indexer] = value instead
-
-See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
-  &#34;&#34;&#34;Entry point for launching an IPython kernel.
-</pre>
-</div>
-</div>
-
-</div>
-</div>
-
-</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[22]:</div>
@@ -13542,28 +13518,6 @@ See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stabl
 </div>
 </div>
 
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-    <div class="prompt"></div>
-
-
-<div class="output_subarea output_stream output_stderr output_text">
-<pre>/Users/user/anaconda3/lib/python3.7/site-packages/ipykernel_launcher.py:1: SettingWithCopyWarning:
-A value is trying to be set on a copy of a slice from a DataFrame.
-Try using .loc[row_indexer,col_indexer] = value instead
-
-See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
-  &#34;&#34;&#34;Entry point for launching an IPython kernel.
-</pre>
-</div>
-</div>
-
-</div>
-</div>
 
 </div>
 <div class="cell border-box-sizing code_cell rendered">
@@ -13578,30 +13532,6 @@ See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stabl
 </div>
 </div>
 
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area">
-
-    <div class="prompt"></div>
-
-
-<div class="output_subarea output_stream output_stderr output_text">
-<pre>/Users/user/anaconda3/lib/python3.7/site-packages/ipykernel_launcher.py:1: SettingWithCopyWarning:
-A value is trying to be set on a copy of a slice from a DataFrame.
-Try using .loc[row_indexer,col_indexer] = value instead
-
-See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
-  &#34;&#34;&#34;Entry point for launching an IPython kernel.
-</pre>
-</div>
-</div>
-
-</div>
-</div>
-
-</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[24]:</div>
@@ -14787,16 +14717,14 @@ Name: Address_Zip, Length: 100, dtype: int64</pre>
 
 
   <div class="output_png output_subarea ">
-  <img src="images/map_1.png"
+  <img src="img/map_1.png"
   >
   </div>
 
   </div>
 
   </div>
-  </div>
-
-  </div>
+  
 
 
 
@@ -15451,58 +15379,31 @@ var element = $('#d1698906-1ae6-4f9e-ae27-f823e0e5cba6');
 <span class="n">fig</span>
 </pre></div>
 
-    </div>
 </div>
 </div>
+</div>
 
-
-  <div class="output_wrapper">
-  <div class="output">
-
+<div class="output_wrapper">
+<div class="output">
 
   <div class="output_area">
 
       <div class="prompt"></div>
 
 
-
-
   <div class="output_png output_subarea ">
-  <img src="images/map_2.png"
+  <img src="img/map_2.png"
   >
   </div>
 
   </div>
 
   </div>
-  </div>
-
-  </div>
 
 
 
 
 
-
-
-
-
-<div id="9da151e6-c651-4e87-9962-c396b21300d0"></div>
-<div class="output_subarea output_widget_view ">
-<script type="text/javascript">
-var element = $('#9da151e6-c651-4e87-9962-c396b21300d0');
-</script>
-<script type="application/vnd.jupyter.widget-view+json">
-{"model_id": "ba99da78b606460aa83799efa9ca5bff", "version_major": 2, "version_minor": 0}
-</script>
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
@@ -16659,7 +16560,7 @@ var element = $('#9da151e6-c651-4e87-9962-c396b21300d0');
 
 
   <div class="output_png output_subarea ">
-  <img src="images/map_3.png"
+  <img src="img/map_3.png"
   >
   </div>
 
@@ -16676,22 +16577,6 @@ var element = $('#9da151e6-c651-4e87-9962-c396b21300d0');
 
 
 
-<div id="ad566654-a084-494c-98a8-646b45c9c167"></div>
-<div class="output_subarea output_widget_view ">
-<script type="text/javascript">
-var element = $('#ad566654-a084-494c-98a8-646b45c9c167');
-</script>
-<script type="application/vnd.jupyter.widget-view+json">
-{"model_id": "94b0d6df710c4994819d563a961ad6c5", "version_major": 2, "version_minor": 0}
-</script>
-</div>
-
-</div>
-
-</div>
-</div>
-
-</div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[48]:</div>
@@ -16897,7 +16782,7 @@ var element = $('#ad566654-a084-494c-98a8-646b45c9c167');
 
 
 <div class="output_png output_subarea ">
-<img src="images/graph.png"
+<img src="img/graph.png"
 >
 </div>
 
@@ -16909,6 +16794,7 @@ var element = $('#ad566654-a084-494c-98a8-646b45c9c167');
 </div>
     </div>
   </div>
+
 </body>
 
 
