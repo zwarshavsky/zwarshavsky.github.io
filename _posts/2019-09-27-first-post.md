@@ -8,7 +8,6 @@ image: /img/nyc_skyline.png
 <html>
 <head><meta charset="utf-8" />
 
-
 <title>311_Complaints_Portfolio_Project</title>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
@@ -14719,7 +14718,7 @@ Name: Address_Zip, Length: 100, dtype: int64</pre>
 
 
   <div class="output_png output_subarea ">
-  <img src="img/map_1.png"
+  <img src="/img/map_1.png"
   >
   </div>
 
@@ -15394,7 +15393,7 @@ var element = $('#d1698906-1ae6-4f9e-ae27-f823e0e5cba6');
 
 
   <div class="output_png output_subarea ">
-  <img src="img/map_2.png"
+  <img src="/img/map_2.png"
   >
   </div>
 
@@ -16562,7 +16561,7 @@ var element = $('#d1698906-1ae6-4f9e-ae27-f823e0e5cba6');
 
 
   <div class="output_png output_subarea ">
-  <img src="img/map_3.png"
+  <img src="/img/map_3.png"
   >
   </div>
 
@@ -16784,7 +16783,7 @@ var element = $('#d1698906-1ae6-4f9e-ae27-f823e0e5cba6');
 
 
 <div class="output_png output_subarea ">
-<img src="img/graph.png"
+<img src="/img/graph.png"
 >
 </div>
 
