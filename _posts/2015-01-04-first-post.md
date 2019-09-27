@@ -3,9 +3,6 @@ layout: post
 title: Tracking Nightlife Noise in NYC
 image: /img/graph.png
 ---
-<!DOCTYPE html>
-<html>
-<head><meta charset="utf-8" />
 
 <title>311_Complaints_Portfolio_Project</title>
 
