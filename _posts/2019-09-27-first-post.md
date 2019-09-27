@@ -34,7 +34,7 @@ We then create a "Rank" column which allows us to rank the top 100 places with a
 ![rank](/img/rank.png)
 
 
-We are now ready to plot our points utilizing the __[jupyter-gmaps API ](https://jupyter-gmaps.readthedocs.io/en/latest/index.html)__. The visualization tool which reveals the establishment name, it's noise rank and its location can be immediately utilized by my sales team. An invaluable tool lead generation.  
+We are now ready to plot our points utilizing the __[jupyter-gmaps API ](https://jupyter-gmaps.readthedocs.io/en/latest/index.html)__. The visualization tool which reveals the establishment name, it's noise rank and its location can be immediately utilized by my sales team. An invaluable tool for lead generation.  
 
 ![map_3](/img/map_3.png)
 
