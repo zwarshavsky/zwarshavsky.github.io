@@ -2,7 +2,8 @@
 layout: post
 title: Tracking Nightlife Noise in NYC
 subtitle: Find and analyze NYC's biggest noisemakers  
-image: https://github.com/zwarshavsky/zwarshavsky.github.io/blob/master/img/nyc_skyline.jpg
+image: /img/nyc_skyline.jpg
+
 ---
 
 <html>
