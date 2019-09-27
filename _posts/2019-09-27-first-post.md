@@ -22,18 +22,18 @@ Come, the __[NYC Open Data](https://opendata.cityofnewyork.us/)__
 
 After filtering the list down to the relavent data points, we're down to the following:
 
-![list snippet](/img/pre_list_snippet.png)
+![list snippet](/img/pre_list_snippet.png =250px)
 
-We turn it into a Dataframe, run the __[Google Maps Places API] (https://developers.google.com/places/web-service/intro)__ against these addresses and get the following list: 
+We turn it into a Dataframe, run the __[Google Maps Places API](https://developers.google.com/places/web-service/intro)__ against these addresses and get the following list: 
 
-![list snippet](/img/list_snippet.png)
+![list snippet](/img/list_snippet.png =250px)
 
 We then create a "Rank" column which allows us to rank the top 100 places with a "1" to "100" ordinal scale. 
 
 ![rank](/img/rank.png)
 
 
-We are now ready to plot our points utilizing the __[jupyter-gmaps API ] (https://jupyter-gmaps.readthedocs.io/en/latest/index.html)__. The visualization tool which reveals the establishment name, it's noise rank and its location can be immediately utilized by my sales team. An invaluable tool lead generation.  
+We are now ready to plot our points utilizing the __[jupyter-gmaps API ](https://jupyter-gmaps.readthedocs.io/en/latest/index.html)__. The visualization tool which reveals the establishment name, it's noise rank and its location can be immediately utilized by my sales team. An invaluable tool lead generation.  
 
 ![map_3](/img/map_3.png)
 
@@ -43,6 +43,6 @@ The visualization reveals nightlife noise hotspots and a multitude of other loca
 
 ## Sample Dashboard View
 
-For each specific sales cycle, we can generate a graph providing historic noise complaint trends for each business and can be generated for __[Stampede Sound's ] (http://www.stampedesound.com)__ existing clients for true on-the-ground field testing. 
+For each specific sales cycle, we can generate a graph providing historic noise complaint trends for each business and can be generated for __[Stampede Sound's ](http://www.stampedesound.com)__ existing clients for true on-the-ground field testing. 
 
 ![Graph](/img/graph.png)
