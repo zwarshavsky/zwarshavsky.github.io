@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tracking Nightlife Noise in NYC
-subtitle: Find and analyze NYC's biggest noisemakers  
+title: Tracking NYC's Biggest Nightlife Noisemakers
+subtitle: by Zhenya Warshavsky   
 image: /img/nyc_skyline.jpg
 
 ---
@@ -24,6 +24,6 @@ Come, the __[NYC Open Data](https://opendata.cityofnewyork.us/)__
 
 
 
-![map_1](/img/map_1.jpg)
-![map_2](/img/map_1.jpg)
-![map_3](/img/map_1.jpg)
+![map_1](/img/map_1.png)
+![map_2](/img/map_1.png)
+![map_3](/img/map_1.png)
