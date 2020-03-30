@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interests and Background
-subtitle: Zhenya's Sound and Management 
+subtitle: Zhenya's Sound and Management Experience
 ---
 
 Zhenya Warshavsky's career and interests span music, audio, technology, leadership, and self-development. 

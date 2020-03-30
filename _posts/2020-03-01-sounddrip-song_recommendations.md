@@ -8,21 +8,18 @@ gh-repo: https://github.com/Lambda-School-Labs/Music-Meteorologist-ds
 comments: true
 ---
 
+One of the most rewarding technical enterprises I have been involved with, the SoundDrip music recommendation application was a labor of love spanning several months and a dedicated Data Science team that I had the pleasure of leading. 
 
-<video src="/img/Labs_20_Sound_Drip_Demo_Video.mp4" width="320" height="200" controls preload></video>
+Data Science Highlights:
 
-*Without music,
-life would be a mistake.*
-
-*- Friedrich Nietzsche*
-
-A fresh approach to removing the mystery from results attained via the infamous [XGBoost model](https://xgboost.readthedocs.io/en/latest/get_started.html) utilizing Spotify Playlist data attained from a recent Kaggle competition. 
-
-![rank](/img/sb_corellation_matrix.png)
+* Aggregated the largest publicly available dataset featuring Spotify song metadata and acoustical features. The dataset is now in circulation at Lambda School for future labs projects.
+* Launched Flask endpoints on AWS EBS instance  
+* Tracking user interaction data via AWS RDS backend
+* Containerized on ECS for decreased latency
+* Developing supervised learning solution after amply user interaction data is collected    
 
 
-By emphasizing the most definitive features of a track in Spotify's massive collection of playlists, we can learn what makes a Spotify playlist stand out.
+**Product Demo:**
 
-Is it the steady electronic beat, the melody line, the overall loudness, or the clear vocals that keep us listening?
+<video src="/img/Labs_20_Sound_Drip_Demo_Video.mp4" width="640" height="400" controls preload></video>
 
-See the full project [here!](https://playlist-predictions.herokuapp.com/)
