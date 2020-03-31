@@ -21,7 +21,7 @@ description: A collection of Data Science analysis including DSP audio and broad
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  CV: "/_data/Zhenya_Warshavsky_DS_Resume.pdf"
+  CV: "/img/Zhenya_Warshavsky_DS_Resume.pdf"
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
   # Author's home: "http://deanattali.com"
