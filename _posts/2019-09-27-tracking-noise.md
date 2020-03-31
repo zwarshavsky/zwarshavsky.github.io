@@ -8,9 +8,7 @@ gh-repo: https://github.com/zwarshavsky/311NoiseComplaints
 # tags: [test]
 comments: true
 
----
-
-# Tracking The Fun Noise in NYC  
+--- 
 
 
 As co-founder of sound system design and acoustics consulting startup __[Stampede Sound](http://www.stampedesound.com)__ here in NYC, one of the principal goals of our operation has been to reduce noise transmission for small clubs and bars in the city while improving sound quality with our proprietary speakers and acoustical knowledge. Of all places to achieve this in the US, NYC is likely the most challenging: high population density, hundreds of bars and venue spaces in close proximity to residential spaces, and constantly changing neighborhood boundaries. 

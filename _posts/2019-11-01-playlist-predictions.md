@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Predicting Music Content Skipping
+title: ML Playlist Skip Analysis
 subtitle: What features of music contibute to the track being skipped?
 image: /img/sb_corellation_matrix.png
 gh-repo: https://github.com/zwarshavsky/spotify-playlist-skipping-predictions
