@@ -21,7 +21,7 @@ description: A collection of Data Science analysis including DSP audio and broad
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  CV: (/img/Zhenya_Warshavsky_DS_Resume.pdf)
+  CV: "https://zwarshavsky.github.io/img/Zhenya_Warshavsky_DS_Resume.pdf"
 
 # [Download `test.pdf`](/img/Zhenya_Warshavsky_DS_Resume.pdf)
 
