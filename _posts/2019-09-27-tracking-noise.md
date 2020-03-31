@@ -3,6 +3,10 @@ layout: post
 title: Tracking NYC's Biggest Nightlife Noisemakers
 subtitle: by Zhenya Warshavsky   
 image: /img/nyc_skyline.jpg
+gh-repo: https://github.com/zwarshavsky/311NoiseComplaints
+# gh-badge: [star, fork, follow]
+# tags: [test]
+comments: true
 
 ---
 

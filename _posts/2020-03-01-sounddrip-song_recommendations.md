@@ -2,11 +2,12 @@
 layout: post
 title: SoundDrip Song Recommendation Application 
 subtitle: A full featured song recommendation platform powered by Spotify
+image: /img/sounddrip.png
 gh-repo: https://github.com/Lambda-School-Labs/Music-Meteorologist-ds
 # gh-badge: [star, fork, follow]
 # tags: [test]
 comments: true
-image: /img/sounddrip.png
+
 ---
 
 One of the most rewarding technical enterprises I have been involved with, the SoundDrip music recommendation application was a labor of love spanning several months and a dedicated Data Science team that I had the pleasure of leading. 

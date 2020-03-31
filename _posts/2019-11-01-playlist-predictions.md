@@ -2,11 +2,12 @@
 layout: post
 title: Predicting Music Content Skipping
 subtitle: What features of music contibute to the track being skipped?
+image: /img/sb_corellation_matrix.png
 gh-repo: https://github.com/zwarshavsky/spotify-playlist-skipping-predictions
 # gh-badge: [star, fork, follow]
 # tags: [test]
 comments: true
-image: /img/sb_corellation_matrix.png
+
 ---
 
 *Without music,
