@@ -6,6 +6,7 @@ gh-repo: https://github.com/zwarshavsky/spotify-playlist-skipping-predictions
 # gh-badge: [star, fork, follow]
 # tags: [test]
 comments: true
+image: /img/sb_corellation_matrix.png
 ---
 
 *Without music,
