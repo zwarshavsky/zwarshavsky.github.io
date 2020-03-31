@@ -10,9 +10,9 @@ comments: true
 
 ---
 
-![sounddrip](/img/sounddrip.jpg)
+[![sounddrip](/img/sounddrip.jpg)](www.sound-drip.com)
 
-The SoundDrip music recommendation application was a labor of love spanning several months and a dedicated Data Science team that I had the pleasure of leading. 
+The [SoundDrip](https://www.sound-drip.com) music recommendation application was a labor of love spanning several months and a dedicated Data Science team that I had the pleasure of leading. 
 
 Data Science Highlights:
 
@@ -20,7 +20,8 @@ Data Science Highlights:
 * Launched Flask endpoints on AWS EBS instance  
 * Tracking user interaction data via AWS RDS backend
 * Containerized on ECS for decreased latency
-* Developing supervised learning solution after amply user interaction data is collected    
+* Proprietary Genre Filtering Algorithm 
+* Supervised learning on tracked user interaction data   
 
 
 **Product Demo:**

@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Zhenya Warshavsky
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -69,11 +69,9 @@ author:
 social-network-links:
   rss: true
   email: "zwarshavsky@gmail.com"
-  facebook: https://www.facebook.com/zmuse
-  github: https://github.com/settings/profile
-  twitter: https://twitter.com/ZWarshavsky
-#  reddit: yourname
-  linkedin: https://www.linkedin.com/in/zwarshavsky/
+  github: "zwarshavsky"
+  twitter: "ZWarshavsky"
+  linkedin: "zwarshavsky"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
