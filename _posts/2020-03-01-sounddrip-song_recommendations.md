@@ -10,9 +10,9 @@ comments: true
 
 ---
 
-[![sounddrip](/img/sounddrip.jpg)](www.sound-drip.com)
+[![sounddrip](/img/sounddrip.jpg)](https://www.sound-drip.app/)
 
-The [SoundDrip](https://www.sound-drip.com) music recommendation application was a labor of love spanning several months and a dedicated Data Science team that I had the pleasure of leading. 
+The [SoundDrip](https://www.sound-drip.app/) music recommendation application was a labor of love spanning several months and a dedicated Data Science team that I had the pleasure of leading. 
 
 Data Science Highlights:
 
